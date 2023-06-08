@@ -1,5 +1,7 @@
 ## Random Sports Stuff
 
+Site: https://random-sports-stuff.vercel.app/
+
 Just an app for me to learn new stuff while continuing to hunt for a job. I decided to play around more data from sports since I'm a sports addict. Below are some logs of what I did. I'm hoping to learn something new and get something done with it once or twice a week at least. Lets see how long this can last lmao.
 
 8 June 2022:

@@ -13,11 +13,11 @@ const AppNavBar = () => {
           to="/"
         >
           <img
-            src="/images/football.png"
+            src="/public/football.png"
             className="w-10 h-10"
             width={300}
             height={300}
-            alt="world-globe"
+            alt="random football image"
           />
           <span className="ml-3 text-md">Random Sports Stuff</span>
         </Link>
