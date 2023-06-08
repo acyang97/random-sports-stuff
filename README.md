@@ -7,3 +7,4 @@ Just an app for me to learn new stuff while continuing to hunt for a job. I deci
 - Built a page where I can select football players and compare their stats such as goals scored, assists, shots on target, etc
 - Data was scrapped using Selenium, learning how to scrap data was something new to me
 - Learnt and used D3 for data visualization.
+- First time using Vite, I'm impressed by it.
