@@ -1,7 +1,9 @@
 const Home = () => {
   return (
-    <div>
-      <h1 className="text-3xl">Hello World</h1>
+    <div className="flex justify-content">
+      <h1 className="text-3xl">
+        Just a site for me to learn new stuff by playing around with sports data
+      </h1>
     </div>
   );
 };

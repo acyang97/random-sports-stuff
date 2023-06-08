@@ -31,7 +31,9 @@ const PlayerComparison = () => {
   return (
     <>
       <div className="mb-10">
-        <h1 className="text-3xl bold">Player Comparison</h1>
+        <h1 className="text-3xl bold">
+          Compare Premier League Players 2022-2023 stats
+        </h1>
       </div>
       <div className="grid grid-rows-3 grid-flow-col gap-4 flex justify-center mb-20">
         <PlayerSelect index={1} player={playerOne} setPlayer={setPlayerOne} />
