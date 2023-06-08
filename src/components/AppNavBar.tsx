@@ -13,7 +13,7 @@ const AppNavBar = () => {
           to="/"
         >
           <img
-            src="/public/football.png"
+            src="/football.png"
             className="w-10 h-10"
             width={300}
             height={300}
