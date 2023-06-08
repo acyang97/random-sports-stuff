@@ -8,6 +8,9 @@ import {
   scaleLinear,
   select,
 } from "d3";
+// https://github.com/rsuite/rsuite/issues/1953
+import "rsuite/dist/rsuite-no-reset.min.css";
+import { Tooltip, Whisper } from "rsuite";
 
 export interface IBarChart {
   dataName: string;
@@ -67,14 +70,20 @@ function Bars({ data, height, scaleX, scaleY }: BarsProps) {
   return (
     <>
       {data.map(({ value, label }) => (
-        <rect
+        <Whisper
           key={`bar-${label}`}
-          x={scaleX(label)}
-          y={scaleY(value)}
-          width={scaleX.bandwidth()}
-          height={height - scaleY(value)}
-          fill="teal"
-        />
+          followCursor
+          speaker={<Tooltip>{`${value}`}</Tooltip>}
+        >
+          <rect
+            key={`bar-${label}`}
+            x={scaleX(label)}
+            y={scaleY(value)}
+            width={scaleX.bandwidth()}
+            height={height - scaleY(value)}
+            fill="teal"
+          />
+        </Whisper>
       ))}
     </>
   );
