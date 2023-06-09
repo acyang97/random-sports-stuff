@@ -29,7 +29,6 @@ export const getSelectedPlayersFullData = (players: string[]) => {
   const playersWithData = _.filter(PLAYERS_FULL_DATA, (player) => {
     return players.includes(player.name);
   });
-  console.log(playersWithData);
   const barChartData = columns.map((column) => {
     const { shortForm, name } = column;
     let currentBarChart: IBarChart = {
@@ -50,7 +49,6 @@ export const getSelectedPlayersFullData = (players: string[]) => {
       data: currentData,
     };
   });
-  console.log("barChartData", barChartData);
   return barChartData;
 };
 
