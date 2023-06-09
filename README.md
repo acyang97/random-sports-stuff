@@ -24,5 +24,3 @@ driver.switch_to.default_content()
 ```
 
 - I did not realized that the scrapping of data was so slow as I was just Netflixing and letting the python script run. Looked up on how to improve on this, and realizedI could have utilized the concept of concurrency. Might try rewrite the script and apply those techniques in the future.
-- Drew another d3 graph showing the timeline of the top scorers and how many goals they scored in total after each matchday. Always wanted to try creating such a graph as these graphs appear pretty often on instagram discovery.
--

@@ -32,13 +32,20 @@ const AppNavBar = () => {
                   Home
                 </Link>
               </li>
-
               <li>
                 <Link
                   to="/player-comparison"
                   className="text-gray-500 transition hover:text-gray-500/75"
                 >
                   Player Comparison
+                </Link>
+              </li>
+              <li>
+                <Link
+                  to="/22-23-top-scorers"
+                  className="text-gray-500 transition hover:text-gray-500/75"
+                >
+                  22-23 Top Scorers
                 </Link>
               </li>
             </ul>
