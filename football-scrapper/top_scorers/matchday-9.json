@@ -1,0 +1,177 @@
+[
+  {
+    "date": "2022-10-01",
+    "name": "Erling Haaland",
+    "club": "Manchester City",
+    "value": 15,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Harry Kane",
+    "club": "Tottenham Hotspur",
+    "value": 8,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Ivan Toney",
+    "club": "Brentford",
+    "value": 6,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Mohamed Salah",
+    "club": "Liverpool",
+    "value": 3,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Callum Wilson",
+    "club": "Newcastle",
+    "value": 5,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Marcus Rashford",
+    "club": "Manchester United",
+    "value": 4,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Martin \u00d8degaard",
+    "club": "Arsenal",
+    "value": 4,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Ollie Watkins",
+    "club": "Aston Villa",
+    "value": 2,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Gabriel Martinelli",
+    "club": "Arsenal",
+    "value": 5,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Bukayo Saka",
+    "club": "Arsenal",
+    "value": 2,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Aleksandar Mitrovi\u0107",
+    "club": "Fulham",
+    "value": 7,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Rodrigo",
+    "club": "Leeds United",
+    "value": 4,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Harvey Barnes",
+    "club": "Leicester City",
+    "value": 3,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Gabriel Jesus",
+    "club": "Arsenal",
+    "value": 5,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Phil Foden",
+    "club": "Manchester City",
+    "value": 5,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Roberto Firmino",
+    "club": "Liverpool",
+    "value": 5,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Miguel Almir\u00f3n",
+    "club": "Newcastle",
+    "value": 3,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "James Maddison",
+    "club": "Leicester City",
+    "value": 5,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Heung-min Son",
+    "club": "Tottenham Hotspur",
+    "value": 3,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Eberechi Eze",
+    "club": "Crystal Palace",
+    "value": 0,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Alexis Mac Allister",
+    "club": "Brighton And Hove Albion",
+    "value": 5,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Taiwo Awoniyi",
+    "club": "Nottingham Forest",
+    "value": 2,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Alexander Isak",
+    "club": "Newcastle",
+    "value": 3,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Bryan Mbeumo",
+    "club": "Brentford",
+    "value": 2,
+    "matchday": 9
+  },
+  {
+    "date": "2022-10-01",
+    "name": "Pascal Gro\u00df",
+    "club": "Brighton And Hove Albion",
+    "value": 3,
+    "matchday": 9
+  }
+]

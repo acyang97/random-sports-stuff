@@ -1,0 +1,177 @@
+[
+  {
+    "date": "2022-12-30",
+    "name": "Erling Haaland",
+    "club": "Manchester City",
+    "value": 23,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Harry Kane",
+    "club": "Tottenham Hotspur",
+    "value": 14,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Ivan Toney",
+    "club": "Brentford",
+    "value": 13,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Mohamed Salah",
+    "club": "Liverpool",
+    "value": 8,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Callum Wilson",
+    "club": "Newcastle",
+    "value": 8,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Marcus Rashford",
+    "club": "Manchester United",
+    "value": 7,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Martin \u00d8degaard",
+    "club": "Arsenal",
+    "value": 8,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Ollie Watkins",
+    "club": "Aston Villa",
+    "value": 4,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Gabriel Martinelli",
+    "club": "Arsenal",
+    "value": 9,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Bukayo Saka",
+    "club": "Arsenal",
+    "value": 8,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Aleksandar Mitrovi\u0107",
+    "club": "Fulham",
+    "value": 12,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Rodrigo",
+    "club": "Leeds United",
+    "value": 9,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Harvey Barnes",
+    "club": "Leicester City",
+    "value": 7,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Gabriel Jesus",
+    "club": "Arsenal",
+    "value": 5,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Phil Foden",
+    "club": "Manchester City",
+    "value": 7,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Roberto Firmino",
+    "club": "Liverpool",
+    "value": 7,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Miguel Almir\u00f3n",
+    "club": "Newcastle",
+    "value": 9,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "James Maddison",
+    "club": "Leicester City",
+    "value": 7,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Heung-min Son",
+    "club": "Tottenham Hotspur",
+    "value": 3,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Eberechi Eze",
+    "club": "Crystal Palace",
+    "value": 3,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Alexis Mac Allister",
+    "club": "Brighton And Hove Albion",
+    "value": 6,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Taiwo Awoniyi",
+    "club": "Nottingham Forest",
+    "value": 3,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Alexander Isak",
+    "club": "Newcastle",
+    "value": 3,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Bryan Mbeumo",
+    "club": "Brentford",
+    "value": 3,
+    "matchday": 18
+  },
+  {
+    "date": "2022-12-30",
+    "name": "Pascal Gro\u00df",
+    "club": "Brighton And Hove Albion",
+    "value": 5,
+    "matchday": 18
+  }
+]
